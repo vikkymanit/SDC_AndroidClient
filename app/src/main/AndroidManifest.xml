@@ -34,7 +34,7 @@ The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
             android:name="cm.google.android.gms.version"
             android:value="@integer/google_play_services_version"/>
 
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAB9s3YvpMVEjREodyOPww-RLJdhvAvzV0"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="xxxxxxxxxxxxxxxxxxxxvAvzV0"/>
 
     </application>
 
